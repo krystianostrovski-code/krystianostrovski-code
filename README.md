@@ -47,4 +47,4 @@ Kompletny system zarządzania magazynem i zamówieniami B2B, inspirowany rozwią
 * **Frontend:** React + TypeScript, Tailwind CSS, shadcn/ui, TanStack Table & Query.
 * **Jakość i DevOps:** Testy jednostkowe xUnit, pipeline CI w GitHub Actions, pełna konteneryzacja za pomocą `docker-compose`.
 
-👉 **[Kod źródłowy repozytorium (Wkrótce)]** | **[Live Demo (Wkrótce)]**
+👉 **[Kod źródłowy repozytorium]** | **[[Live Demo](https://nexus-erp-xi-lovat.vercel.app)]**
