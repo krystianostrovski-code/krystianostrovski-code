@@ -48,11 +48,3 @@ Kompletny system zarządzania magazynem i zamówieniami B2B, inspirowany rozwią
 * **Jakość i DevOps:** Testy jednostkowe xUnit, pipeline CI w GitHub Actions, pełna konteneryzacja za pomocą `docker-compose`.
 
 👉 **[Kod źródłowy repozytorium (Wkrótce)]** | **[Live Demo (Wkrótce)]**
-
----
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUTAJ_TWOJ_LOGIN_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="Statystyki GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUTAJ_TWOJ_LOGIN_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Najpopularniejsze języki" />
-</p>
